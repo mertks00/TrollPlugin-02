@@ -1,0 +1,15 @@
+name: Troll
+version: '${project.version}'
+main: me.troll.troll.Troll
+commands:
+  troll:
+  fly:
+  vanish:
+  hiz:
+  fakerestart:
+
+
+
+
+
+
